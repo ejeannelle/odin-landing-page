@@ -14,9 +14,10 @@ This project is part of the **Foundations** curriculum on [The Odin Project](htt
 
 A fictional homepage that includes:
 - A header with logo and navigation
-- A hero section with a call-to-action
-- Content blocks with images and text
-- A customer testimonial
+- A hero section
+- An information section
+- A quote section
+- A call-to-action section
 - A footer
 
 ## 🛠️ Technologies
